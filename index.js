@@ -195,3 +195,4 @@ products.forEach((product) => {
     appEL.append(productEl);
 }
 )
+
